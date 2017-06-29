@@ -1,7 +1,5 @@
-# Kurisu
-A Discord server bot by 916253 and ihaveamac/ihaveahax. Designed heavily around the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh).
-
-Although it is open source, this bot is not really designed to be used in other setups at the moment; the source is mainly just available for those interested in how it works on the Nintendo Homebrew server.
+# Mira
+A Discord server bot based on [Kurisu](https://github.com/916253/Kurisu) by 916253 and ihaveamac/ihaveahax. Designed for the [Custerspace Discord.](https://discord.gg/PyVbAgF)
 
 ## Requirements:
 * Python 3.5 or above
